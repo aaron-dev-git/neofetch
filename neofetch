@@ -7424,9 +7424,9 @@ EOF
         ;;
 
         "LMDE"*)
-            set_colors 2 7
+            set_colors 4 4
             read -rd '' ascii_data <<'EOF'
-         ${c2}`.-::---..
+${c2}         `.-::---..
 ${c1}      .:++++ooooosssoo:.
     .+o++::.      `.:oos+.
 ${c1}   :oo:.`             -+oo${c2}:
